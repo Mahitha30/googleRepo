@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-11-27T17:20:43 IST" name="Default suite" finished-at="2024-11-27T17:20:48 IST" duration-ms="5589">
+  <suite started-at="2024-11-28T15:05:19 IST" name="Suite" finished-at="2024-11-28T15:05:27 IST" duration-ms="7993">
     <groups>
     </groups>
-    <test started-at="2024-11-27T17:20:43 IST" name="Default test" finished-at="2024-11-27T17:20:48 IST" duration-ms="5589">
+    <test started-at="2024-11-28T15:05:19 IST" name="Test" finished-at="2024-11-28T15:05:27 IST" duration-ms="7993">
       <class name="Sample.Google">
-        <test-method signature="launchGoogle()[pri:0, instance:Sample.Google@5b8dfcc1]" started-at="2024-11-27T17:20:43 IST" name="launchGoogle" finished-at="2024-11-27T17:20:48 IST" duration-ms="5477" status="PASS">
+        <test-method signature="launchGoogle()[pri:0, instance:Sample.Google@747ddf94]" started-at="2024-11-28T15:05:19 IST" name="launchGoogle" finished-at="2024-11-28T15:05:27 IST" duration-ms="7883" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchGoogle -->
       </class> <!-- Sample.Google -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
